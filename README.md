@@ -39,6 +39,8 @@
 | git stash	| Stash changes in a dirty working directory   |
 |  git stash clear	| Remove all stashed entries   |
 # Inspection & Comparison Command
+| Command | Description |
+| --- | --- |
 | git log	| View changes   |
 |  git log --summary	| View changes (detailed)   |
 | git log --oneline	| View changes (briefly)   |

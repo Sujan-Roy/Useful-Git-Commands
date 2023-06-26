@@ -1,6 +1,6 @@
 # Useful-Git-Commands
 
-# Getting & Creating Projects on Githunb
+# Getting and Creating Projects on Githunb
 
 | Command | Description |
 | --- | --- |

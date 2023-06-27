@@ -8,6 +8,7 @@
 | git clone ssh://git@github.com/[username]/[repository-name].git | Create a local copy of a remote repository |
 
 # Basic Command
+
 | Command | Description |
 | --- | --- |
 |git status | Check status |
@@ -17,6 +18,7 @@
 |git rm -r [file-name.txt]| Remove a file (or folder) |
 
 # Branching Command
+
 | Command | Description |
 | --- | --- |
 | git branch |  List branches (The asterisk (*) indicates the current branch) |
@@ -32,13 +34,16 @@
 |  git checkout -- [file-name.txt]	| Discard changes to a file   |
 
 # Merging Command
+
 | Command | Description |
 | --- | --- |
 |  git merge [branch name]	| Merge a branch into the active branch   |
 |  git merge [source branch] [target branch]	| Merge a branch into a target branch  |
 | git stash	| Stash changes in a dirty working directory   |
 |  git stash clear	| Remove all stashed entries   |
+
 # Inspection & Comparison Command
+
 | Command | Description |
 | --- | --- |
 | git log	| View changes   |

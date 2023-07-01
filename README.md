@@ -42,7 +42,7 @@
 | git stash	| Stash changes in a dirty working directory   |
 |  git stash clear	| Remove all stashed entries   |
 
-# Inspection & Comparison Command
+# Inspection and Comparison Command
 
 | Command | Description |
 | --- | --- |

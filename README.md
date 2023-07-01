@@ -34,6 +34,9 @@
 |  git checkout -- [file-name.txt]	| Discard changes to a file   |
 
 # Merging Command
+Once your branch development is finished and fully functional, the last task is to merge it with the parent branch (dev or master) using the git merge command.
+
+The git merge command combines the commits from your feature branch into the dev (or master) branch, effectively integrating your changes. To ensure a successful merge, make sure you are currently on the branch you want to merge your feature branch into.
 
 | Command | Description |
 | --- | --- |

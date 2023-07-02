@@ -38,6 +38,7 @@ Once your branch development is finished and fully functional, the last task is 
 
 The git merge command combines the commits from your feature branch into the dev (or master) branch, effectively integrating your changes. To ensure a successful merge, make sure you are currently on the branch you want to merge your feature branch into.
 
+
 | Command | Description |
 | --- | --- |
 |  git merge [branch name]	| Merge a branch into the active branch   |

@@ -57,3 +57,6 @@ The git merge command combines the commits from your feature branch into the dev
 
 
 # Updating Projects on github
+
+| Command | Description |
+| --- | --- |

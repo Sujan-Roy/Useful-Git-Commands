@@ -60,3 +60,4 @@ The git merge command combines the commits from your feature branch into the dev
 
 | Command | Description |
 | --- | --- |
+| git push origin [branch name] | Push a branch to your remote repository |

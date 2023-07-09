@@ -61,3 +61,4 @@ The git merge command combines the commits from your feature branch into the dev
 | Command | Description |
 | --- | --- |
 | git push origin [branch name] | Push a branch to your remote repository |
+| git push -u origin [branch name] | Push changes to remote repository (and remember the branch) |

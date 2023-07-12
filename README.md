@@ -62,4 +62,5 @@ The git merge command combines the commits from your feature branch into the dev
 | --- | --- |
 | git push origin [branch name] | Push the current branch to the remote counterpart of that branch |
 | git push -u origin [branch name] | This creates a remote branch and sets it upstream of the current branch you are pushing |
+|git push | This command is used to upload local repository content to a remote repository.|
 
